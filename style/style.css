@@ -1,0 +1,51 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+#setup{
+    width:25%;
+    margin:0 auto;
+}
+header{
+    text-align: center;
+}
+.sor{
+    display:flex;
+    justify-content: center;
+    
+}
+.cella{
+    width:50px;
+    height:50px;
+    background: rgb(159, 159, 1);
+    border: 1px solid black;
+    font-size: 2rem;
+    text-align: center;
+    
+}
+body{
+   
+}
+#palya{
+    
+}
+.zaszlo{
+    background-image: url('../img/flag.png');
+    background-position: center;
+    background-size: cover;
+}
+.akna{
+    background-image: url('../img/akna1.png');
+    background-position: center;
+    background-size: cover;
+}
+.robban{
+    background-image: url('../img/akna3.png');
+    background-position: center;
+    background-size: cover;
+}
+.ures{
+    background: yellow;
+}
